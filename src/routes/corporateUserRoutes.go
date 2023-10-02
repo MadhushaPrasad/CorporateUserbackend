@@ -14,5 +14,4 @@ func CorporateUserRoutes(router *gin.Engine) {
 	router.GET("/users/:user_type/:user_id", nil)
 	router.POST("/users/:user_type/:user_id/send_verify_email", nil)
 	router.GET("/users/:user_type/:user_id/verify_email/:verification_code", nil)
-
 }

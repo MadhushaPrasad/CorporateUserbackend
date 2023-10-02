@@ -14,18 +14,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+    - uses: actions/checkout@v3
 
-      - name: Set up Go
-        uses: actions/setup-go@v4
-        with:
-          go-version: '1.20'
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.20'
 
-      - name: Build
-        run: go build -o ./tmp runtime
+    - name: Build
+      run: go build -o app ./...
 
-      - name: Run Time Build
-        run: go build -o ./tmp/runtime.a runtime # works
-
-      - name: Test
-        run: go test -c -o ./tmp runtime
+    - name: Test
+      run: go test -v ./...

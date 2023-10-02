@@ -22,10 +22,10 @@ jobs:
           go-version: '1.20'
 
       - name: Build
-        run: go build -o /tmp runtime
+        run: go build -o ./tmp runtime
 
       - name: Run Time Build
-        run: go build -o /tmp/runtime.a runtime # works
+        run: go build -o ./tmp/runtime.a runtime # works
 
       - name: Test
-        run: go test -c -o /tmp runtime
+        run: go test -c -o ./tmp runtime

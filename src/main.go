@@ -4,6 +4,7 @@ import (
 	"corporateTest/src/controllers"
 	"corporateTest/src/helpers"
 	"corporateTest/src/routes"
+	"fmt"
 	"github.com/gin-gonic/gin"
 	"os"
 )
@@ -27,8 +28,8 @@ func main() {
 		log.Error("API_CONFIG_PORT not found in environment variables")
 		os.Exit(1)
 	}
-	if port == "" {
-		port = "8080"
+	if port != "8080" {
+		port = "8090"
 	}
 
 	router := gin.New()
@@ -36,9 +37,14 @@ func main() {
 	//initialize routes
 	routes.CorporateUserRoutes(router)
 
+	fmt.Println("API running on port : " + port)
+
 	err = router.Run(":" + port)
 	if err != nil {
 		return
+	} else {
+		log.Info("API running on port : " + port)
+		fmt.Println("API running on port : " + port)
 	}
 
 }

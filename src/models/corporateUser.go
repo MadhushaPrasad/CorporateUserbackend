@@ -14,6 +14,7 @@ type CorporateUser struct {
 	Owner            string    `json:"Owner" bson:"Owner"`
 	Email            string    `json:"Email" bson:"Email"`
 	EmailVerified    string    `json:"EmailVerified" bson:"EmailVerified"`
+	Password         string    `json:"password" bson:"password"`
 	ProfilePicUrl    string    `json:"ProfilePicUrl" bson:"ProfilePicUrl"`
 	TacVersion       string    `json:"TacVersion" bson:"TacVersion"`
 	TacLanguage      string    `json:"TacLanguage" bson:"TacLanguage"`

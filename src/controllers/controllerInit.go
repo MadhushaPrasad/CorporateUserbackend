@@ -2,11 +2,12 @@ package controllers
 
 import (
 	"corporateTest/src/helpers"
+
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
 var usersCollection *mongo.Collection
-var API_CONFIG_REQUEST_TIMEOUT, err_getenv = helpers.GetEnvStringVal("API_CONFIG_REQUEST_TIMEOUT")
+var API_CONFIG_REQUEST_TIMEOUT, err_getenv = helpers.GetEnvIntVal("API_CONFIG_REQUEST_TIMEOUT")
 
 func InitializeControllers() {
 	log := helpers.GetLogger()

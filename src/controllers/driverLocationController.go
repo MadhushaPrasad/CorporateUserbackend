@@ -43,3 +43,26 @@ func CreateDriverLocation(c *gin.Context) {
 	log.WithFields(logrus.Fields{"ID": c.MustGet("LogID")}).Info("Driver Location succesfilly.")
 
 }
+
+func GetDriverLocation(c *gin.Context) ([]redis.GeoLocation, error) {
+
+	var geoLocationDetails models.GeoLocationDetailsModel
+	json.NewDecoder(c.Request.Body).Decode(&geoLocationDetails)
+
+	res, err := rediss.RedisInstance().GeoRadius(context.Background(),
+		geoLocationDetails.Key, geoLocationDetails.Longitude, geoLocationDetails.Latitude, &redis.GeoRadiusQuery{
+			Radius:      geoLocationDetails.Radius,
+			Unit:        "km",
+			WithCoord:   true,
+			WithDist:    true,
+			WithGeoHash: true,
+			Count:       0,
+			Sort:        "ASC",
+		}).Result()
+
+	if err != nil {
+		return nil, err
+	}
+
+	return res, nil
+}

@@ -273,3 +273,6 @@
 {"ID":"c6279d27-f08b-4963-a375-0ba2828e89d7","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T15:00:59+05:30"}
 {"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:00:59+05:30"}
 {"ID":"c6279d27-f08b-4963-a375-0ba2828e89d7","level":"info","msg":"Driver Location succesfilly.","time":"2023-12-12T15:00:59+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T15:18:14+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T15:18:14+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:18:14+05:30"}

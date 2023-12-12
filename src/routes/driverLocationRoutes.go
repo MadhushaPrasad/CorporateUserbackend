@@ -10,4 +10,5 @@ func DriverLocationRoutes(router *gin.Engine) {
 
 	// DriverLocationUserRoutes
 	router.PUT("/users/:user_type", controllers.CreateDriverLocation)
+	router.GET("/driverlocation/", controllers.GetDriverLocation)
 }

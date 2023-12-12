@@ -44,7 +44,7 @@ func CreateDriverLocation(c *gin.Context) {
 
 }
 
-func GetDriverLocation(c *gin.Context) ([]redis.GeoLocation, error) {
+func GetDriverLocation(c *gin.Context) {
 
 	var geoLocationDetails models.GeoLocationDetailsModel
 	json.NewDecoder(c.Request.Body).Decode(&geoLocationDetails)
@@ -61,8 +61,10 @@ func GetDriverLocation(c *gin.Context) ([]redis.GeoLocation, error) {
 		}).Result()
 
 	if err != nil {
-		return nil, err
+		c.JSON(http.StatusOK, []string{})
+		println(err.Error())
+		return
 	}
 
-	return res, nil
+	c.JSON(http.StatusOK, res)
 }

@@ -35,5 +35,4 @@ func CreateUser(c *gin.Context) {
 	case "backend_user":
 		CreateCorporateUser(c)
 	}
-
 }

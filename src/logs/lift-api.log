@@ -9,3 +9,160 @@
 {"level":"error","msg":"Failed to load environment variable : API_CONFIG_REQUEST_TIMEOUT","time":"2023-10-03T14:19:58+05:30"}
 {"level":"error","msg":"Failed to load environment variable : API_CONFIG_REQUEST_TIMEOUT","time":"2023-10-03T14:21:30+05:30"}
 {"level":"error","msg":"Failed to load environment variable : API_CONFIG_REQUEST_TIMEOUT","time":"2023-10-03T14:22:00+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T12:04:11+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T12:04:11+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T12:08:36+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T12:08:36+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T12:33:58+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T12:33:58+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T12:40:14+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T12:40:14+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T12:46:52+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T12:46:52+05:30"}
+{"ID":"e3833428-1854-4440-90cd-450419b4b92c","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T12:47:48+05:30"}
+{"ID":"e3833428-1854-4440-90cd-450419b4b92c","level":"info","msg":"No Documents Found.","time":"2023-12-04T12:47:48+05:30"}
+{"ID":"f09d17f9-2275-4d8d-a28d-12848db62eae","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T12:48:00+05:30"}
+{"ID":"f09d17f9-2275-4d8d-a28d-12848db62eae","level":"info","msg":"No Documents Found.","time":"2023-12-04T12:48:00+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T13:02:24+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T13:02:24+05:30"}
+{"ID":"6b9be4a7-42b2-4d50-91e8-a23c1936c944","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T13:02:37+05:30"}
+{"ID":"6b9be4a7-42b2-4d50-91e8-a23c1936c944","level":"info","msg":"No Documents Found.","time":"2023-12-04T13:02:38+05:30"}
+{"ID":"ae6a004f-3e95-4963-a4b9-43765f20bdb2","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T13:03:15+05:30"}
+{"ID":"ae6a004f-3e95-4963-a4b9-43765f20bdb2","level":"info","msg":"No Documents Found.","time":"2023-12-04T13:03:15+05:30"}
+{"ID":"8cb6bfdd-0a90-40e9-aa97-2ccbd510dabb","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T13:03:18+05:30"}
+{"ID":"8cb6bfdd-0a90-40e9-aa97-2ccbd510dabb","level":"info","msg":"No Documents Found.","time":"2023-12-04T13:03:18+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T13:03:29+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T13:03:29+05:30"}
+{"ID":"d212655d-1913-4b7e-b29d-6ad9f6b4facc","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T13:04:41+05:30"}
+{"ID":"d212655d-1913-4b7e-b29d-6ad9f6b4facc","level":"error","msg":"illegal base64 data at input byte 4","time":"2023-12-04T13:04:41+05:30"}
+{"ID":"ea7b6a68-9865-4889-a193-c70cc1bb763f","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T13:07:06+05:30"}
+{"ID":"ea7b6a68-9865-4889-a193-c70cc1bb763f","level":"error","msg":"illegal base64 data at input byte 4","time":"2023-12-04T13:07:06+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T13:07:41+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T13:07:41+05:30"}
+{"ID":"1fdcf24b-5e6c-4088-9a20-0b85d1a8fae1","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T13:07:54+05:30"}
+{"ID":"1fdcf24b-5e6c-4088-9a20-0b85d1a8fae1","level":"error","msg":"illegal base64 data at input byte 4","time":"2023-12-04T13:07:54+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T13:15:40+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T13:15:40+05:30"}
+{"ID":"d6952d9e-2339-49e0-a9a2-40ef0c29b4c0","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T13:15:52+05:30"}
+{"ID":"d6952d9e-2339-49e0-a9a2-40ef0c29b4c0","level":"info","msg":"User Backend User Created succesfilly.","time":"2023-12-04T13:15:53+05:30"}
+{"ID":"a990f87b-d4b3-4e57-8f90-13c80a7b99e3","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T13:16:18+05:30"}
+{"ID":"a990f87b-d4b3-4e57-8f90-13c80a7b99e3","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T13:16:18+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T13:56:18+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T13:56:18+05:30"}
+{"ID":"7bf96874-54bb-4bd0-b434-fe3fc45d4599","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T14:02:03+05:30"}
+{"ID":"7bf96874-54bb-4bd0-b434-fe3fc45d4599","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T14:02:03+05:30"}
+{"ID":"68e31504-eedc-4d2b-a763-3ee83fe4c008","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T14:02:33+05:30"}
+{"ID":"68e31504-eedc-4d2b-a763-3ee83fe4c008","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T14:02:33+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T14:07:40+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T14:07:40+05:30"}
+{"ID":"cb38ac37-c32a-41a1-8cba-3e5d12557c28","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:10:01+05:30"}
+{"ID":"cb38ac37-c32a-41a1-8cba-3e5d12557c28","level":"debug","msg":"User with ID '99dc5cc7-ede7-4656-ad5d-367d4e1e43a6' not found.","time":"2023-12-04T14:10:01+05:30"}
+{"ID":"c299f1fb-5ad4-4f7d-891b-4ced55bc34e0","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:10:49+05:30"}
+{"ID":"c299f1fb-5ad4-4f7d-891b-4ced55bc34e0","level":"debug","msg":"User with ID '99dc5cc7-ede7-4656-ad5d-367d4e1e43a6' not found.","time":"2023-12-04T14:10:49+05:30"}
+{"ID":"bb7c8ff8-d908-480d-8e4a-8729521d1ee7","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T14:11:03+05:30"}
+{"ID":"bb7c8ff8-d908-480d-8e4a-8729521d1ee7","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T14:11:03+05:30"}
+{"ID":"1fef8a59-809f-4cb1-8c45-602778b39d7d","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:11:15+05:30"}
+{"ID":"1fef8a59-809f-4cb1-8c45-602778b39d7d","level":"debug","msg":"User with ID '99dc5cc7-ede7-4656-ad5d-367d4e1e43a6' not found.","time":"2023-12-04T14:11:15+05:30"}
+{"ID":"e594d8da-4445-4ba4-8f6d-0d52dc9842d9","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:12:01+05:30"}
+{"ID":"e594d8da-4445-4ba4-8f6d-0d52dc9842d9","level":"debug","msg":"User with ID '99dc5cc7-ede7-4656-ad5d-367d4e1e43a6' not found.","time":"2023-12-04T14:12:01+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T14:12:14+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T14:12:14+05:30"}
+{"ID":"3fbc5900-0ef9-41a2-8101-c381afb2ba74","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:12:37+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T14:13:13+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T14:13:13+05:30"}
+{"ID":"6027f4ab-4dc0-41f9-810c-7666e8a0c5f8","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:16:41+05:30"}
+{"ID":"4e71b359-ae26-4069-b74d-24d3abade58b","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:24:20+05:30"}
+{"ID":"774d59b6-e8d7-42b6-a4ce-945af0ed9d9f","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:32:47+05:30"}
+{"ID":"eac8bc01-9382-408d-9238-ea3b53bebcb4","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:35:36+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T14:46:09+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T14:46:09+05:30"}
+{"ID":"48b4e567-4d4b-4789-8bc4-43abb10f892e","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:46:20+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T14:52:49+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T14:52:49+05:30"}
+{"ID":"34d26051-7eb9-4fe5-8784-3bb10c59e9d2","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:53:05+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T14:54:16+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T14:54:16+05:30"}
+{"ID":"c9dfb1c4-c4bf-411f-8f6c-136f4759bcb6","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:54:24+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T14:55:21+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T14:55:21+05:30"}
+{"ID":"85b660b3-5fdb-4889-8d6e-237bd1760d06","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T14:57:31+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T15:00:35+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T15:00:35+05:30"}
+{"ID":"e352dd9b-c65d-4011-bc0c-0d669d101186","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T15:00:46+05:30"}
+{"ID":"e352dd9b-c65d-4011-bc0c-0d669d101186","level":"info","msg":"User Service Provider Updated successfully.","time":"2023-12-04T15:00:46+05:30"}
+{"ID":"de7fb62f-38e3-4951-9fd9-9464ded4ff49","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:01:06+05:30"}
+{"ID":"de7fb62f-38e3-4951-9fd9-9464ded4ff49","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:01:06+05:30"}
+{"ID":"df4b9873-0ebc-4d8f-ba76-91499d68a77f","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T15:01:22+05:30"}
+{"ID":"df4b9873-0ebc-4d8f-ba76-91499d68a77f","level":"info","msg":"User Service Provider Updated successfully.","time":"2023-12-04T15:01:22+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T15:07:28+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T15:07:28+05:30"}
+{"ID":"4d1ec39f-b696-402e-a4b5-2638a4c95db2","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T15:07:45+05:30"}
+{"ID":"4d1ec39f-b696-402e-a4b5-2638a4c95db2","level":"debug","msg":"User with ID '99dc5cc7-ede7-4656-ad5d-367d4e1e43a6' not found.","time":"2023-12-04T15:07:45+05:30"}
+{"ID":"fcec9728-09df-4252-abf1-c1522271d853","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:09:14+05:30"}
+{"ID":"fcec9728-09df-4252-abf1-c1522271d853","level":"info","msg":"No Documents Found.","time":"2023-12-04T15:09:14+05:30"}
+{"ID":"4862bc33-6759-406e-ba11-862beea23c49","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:09:17+05:30"}
+{"ID":"4862bc33-6759-406e-ba11-862beea23c49","level":"info","msg":"No Documents Found.","time":"2023-12-04T15:09:17+05:30"}
+{"ID":"50fa463f-e88f-4d21-bb4f-f851883f3016","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T15:09:50+05:30"}
+{"ID":"50fa463f-e88f-4d21-bb4f-f851883f3016","level":"info","msg":"User Backend User Created succesfilly.","time":"2023-12-04T15:09:50+05:30"}
+{"ID":"107af375-a938-434a-bc3b-f2e65c949831","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:10:01+05:30"}
+{"ID":"107af375-a938-434a-bc3b-f2e65c949831","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:10:01+05:30"}
+{"ID":"cbe72da5-25b3-4c12-97fe-9ddd1e9f61ad","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T15:10:23+05:30"}
+{"ID":"cbe72da5-25b3-4c12-97fe-9ddd1e9f61ad","level":"info","msg":"User Service Provider Updated successfully.","time":"2023-12-04T15:10:23+05:30"}
+{"ID":"be146f34-4cf5-4f91-97a6-87cda7c6ae78","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:10:38+05:30"}
+{"ID":"be146f34-4cf5-4f91-97a6-87cda7c6ae78","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:10:38+05:30"}
+{"ID":"f708314b-4b5a-4f46-b68f-5dee213d234c","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:13:50+05:30"}
+{"ID":"f708314b-4b5a-4f46-b68f-5dee213d234c","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:13:50+05:30"}
+{"ID":"53358eed-aa89-415a-9f63-81b749fe5aa3","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T15:14:01+05:30"}
+{"ID":"53358eed-aa89-415a-9f63-81b749fe5aa3","level":"info","msg":"User Backend User Created succesfilly.","time":"2023-12-04T15:14:01+05:30"}
+{"ID":"909c81bc-5ab3-4978-895c-62e057f81db1","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T15:14:02+05:30"}
+{"ID":"909c81bc-5ab3-4978-895c-62e057f81db1","level":"info","msg":"User Backend User Created succesfilly.","time":"2023-12-04T15:14:02+05:30"}
+{"ID":"07b50862-dbde-4ed1-9bdb-47e63659cf05","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T15:14:03+05:30"}
+{"ID":"07b50862-dbde-4ed1-9bdb-47e63659cf05","level":"info","msg":"User Backend User Created succesfilly.","time":"2023-12-04T15:14:03+05:30"}
+{"ID":"104926ca-5aeb-4bf5-a07d-5d8b29632eae","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T15:14:04+05:30"}
+{"ID":"104926ca-5aeb-4bf5-a07d-5d8b29632eae","level":"info","msg":"User Backend User Created succesfilly.","time":"2023-12-04T15:14:04+05:30"}
+{"ID":"86151466-a920-4135-8448-faf0ddfa1003","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:14:08+05:30"}
+{"ID":"86151466-a920-4135-8448-faf0ddfa1003","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:14:08+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T15:15:15+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T15:15:15+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T15:16:00+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T15:16:00+05:30"}
+{"ID":"51fd7938-d021-4ee7-90de-854a5730b364","level":"info","msg":"User Backend User Get All by ID Function Called.","time":"2023-12-04T15:16:09+05:30"}
+{"ID":"51fd7938-d021-4ee7-90de-854a5730b364","level":"error","msg":"mongo: no documents in result","time":"2023-12-04T15:16:09+05:30"}
+{"ID":"783948f6-dfb5-4ef5-8310-00eeda9a86da","level":"info","msg":"User Backend User Get All by ID Function Called.","time":"2023-12-04T15:16:34+05:30"}
+{"ID":"783948f6-dfb5-4ef5-8310-00eeda9a86da","level":"error","msg":"mongo: no documents in result","time":"2023-12-04T15:16:34+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T15:16:44+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T15:16:44+05:30"}
+{"ID":"a1a2dedb-d8eb-4ee9-87fe-2ef886c78b87","level":"info","msg":"User Backend User Get All by ID Function Called.","time":"2023-12-04T15:16:52+05:30"}
+{"ID":"a1a2dedb-d8eb-4ee9-87fe-2ef886c78b87","level":"info","msg":"All Backend User details by ID responsed.","time":"2023-12-04T15:16:53+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T15:25:03+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T15:25:03+05:30"}
+{"ID":"5c2f30aa-4099-4546-8893-b403074c9eb6","level":"info","msg":"User Backend User Get All by ID Function Called.","time":"2023-12-04T15:25:32+05:30"}
+{"ID":"5c2f30aa-4099-4546-8893-b403074c9eb6","level":"info","msg":"Corporate User Deleted successfully.","time":"2023-12-04T15:25:32+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-04T15:28:36+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-04T15:28:36+05:30"}
+{"ID":"cd2cf322-b824-4796-9089-4d8b7e9262c3","level":"info","msg":"User Backend User Get All by ID Function Called.","time":"2023-12-04T15:28:53+05:30"}
+{"ID":"cd2cf322-b824-4796-9089-4d8b7e9262c3","level":"error","msg":"mongo: no documents in result","time":"2023-12-04T15:28:53+05:30"}
+{"ID":"4dcfee40-0695-4e43-a929-4bf4eb2b6b8a","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:29:05+05:30"}
+{"ID":"4dcfee40-0695-4e43-a929-4bf4eb2b6b8a","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:29:05+05:30"}
+{"ID":"a8a2ca21-67f4-4e48-a58d-2082608be8f0","level":"info","msg":"User Backend User Get All by ID Function Called.","time":"2023-12-04T15:29:22+05:30"}
+{"ID":"a8a2ca21-67f4-4e48-a58d-2082608be8f0","level":"info","msg":"Corporate User Deleted successfully.","time":"2023-12-04T15:29:22+05:30"}
+{"ID":"608e6055-de65-4502-aa06-9138291888ea","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:36:08+05:30"}
+{"ID":"608e6055-de65-4502-aa06-9138291888ea","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:36:08+05:30"}
+{"ID":"56ea6bcc-b864-4ae4-b298-b8a7b762c15d","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T15:36:23+05:30"}
+{"ID":"56ea6bcc-b864-4ae4-b298-b8a7b762c15d","level":"info","msg":"User Backend User Created succesfilly.","time":"2023-12-04T15:36:23+05:30"}
+{"ID":"0f25eed0-1db4-4eb9-9f04-c905eb54bf6a","level":"info","msg":"User Create Corporate User Function Called.","time":"2023-12-04T15:36:25+05:30"}
+{"ID":"0f25eed0-1db4-4eb9-9f04-c905eb54bf6a","level":"info","msg":"User Backend User Created succesfilly.","time":"2023-12-04T15:36:25+05:30"}
+{"ID":"73999c5c-f0f9-49d7-8317-e8ac235c74bd","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:36:32+05:30"}
+{"ID":"73999c5c-f0f9-49d7-8317-e8ac235c74bd","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:36:32+05:30"}
+{"ID":"daa3f7c0-ec49-482a-b243-a7e400908ad0","level":"info","msg":"User Update Backend User Function Called.","time":"2023-12-04T15:37:07+05:30"}
+{"ID":"daa3f7c0-ec49-482a-b243-a7e400908ad0","level":"info","msg":"User Service Provider Updated successfully.","time":"2023-12-04T15:37:07+05:30"}
+{"ID":"99ebedb4-161f-423c-8976-75a8e36cbd74","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:37:10+05:30"}
+{"ID":"99ebedb4-161f-423c-8976-75a8e36cbd74","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:37:10+05:30"}
+{"ID":"f081f06c-0ddc-4f23-b11d-ffdf334b11ca","level":"info","msg":"User Backend User Get All by ID Function Called.","time":"2023-12-04T15:37:24+05:30"}
+{"ID":"f081f06c-0ddc-4f23-b11d-ffdf334b11ca","level":"info","msg":"All Backend User details by ID responsed.","time":"2023-12-04T15:37:24+05:30"}
+{"ID":"c5b2b9f8-bc67-45fb-b2a4-5822a42a4dfe","level":"info","msg":"User Backend User Get All by ID Function Called.","time":"2023-12-04T15:37:33+05:30"}
+{"ID":"c5b2b9f8-bc67-45fb-b2a4-5822a42a4dfe","level":"info","msg":"Corporate User Deleted successfully.","time":"2023-12-04T15:37:33+05:30"}
+{"ID":"ddfdda84-e6e1-4194-b6fb-aacc09da8181","level":"info","msg":"User Backend User Get All by ID Function Called.","time":"2023-12-04T15:37:35+05:30"}
+{"ID":"ddfdda84-e6e1-4194-b6fb-aacc09da8181","level":"error","msg":"mongo: no documents in result","time":"2023-12-04T15:37:35+05:30"}
+{"ID":"8b004e9d-c6cd-4e0c-b07d-8f0b781de8a0","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:37:40+05:30"}
+{"ID":"8b004e9d-c6cd-4e0c-b07d-8f0b781de8a0","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:37:40+05:30"}

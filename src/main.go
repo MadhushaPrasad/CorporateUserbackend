@@ -5,8 +5,9 @@ import (
 	"corporateTest/src/helpers"
 	"corporateTest/src/routes"
 	"fmt"
-	"github.com/gin-gonic/gin"
 	"os"
+
+	"github.com/gin-gonic/gin"
 )
 
 func main() {
@@ -35,7 +36,8 @@ func main() {
 	router := gin.New()
 
 	//initialize routes
-	routes.CorporateUserRoutes(router)
+	// routes.CorporateUserRoutes(router)
+	routes.DriverLocationRoutes(router)
 
 	fmt.Println("API running on port : " + port)
 

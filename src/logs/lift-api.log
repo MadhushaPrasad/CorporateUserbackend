@@ -166,3 +166,110 @@
 {"ID":"ddfdda84-e6e1-4194-b6fb-aacc09da8181","level":"error","msg":"mongo: no documents in result","time":"2023-12-04T15:37:35+05:30"}
 {"ID":"8b004e9d-c6cd-4e0c-b07d-8f0b781de8a0","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-04T15:37:40+05:30"}
 {"ID":"8b004e9d-c6cd-4e0c-b07d-8f0b781de8a0","level":"info","msg":"All Corporate User details responsed.","time":"2023-12-04T15:37:40+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:07:50+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:07:50+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:07:50+05:30"}
+{"ID":"bd69bf27-8c66-4e9a-a35b-93efcb37b6af","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:13:43+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:13:43+05:30"}
+{"ID":"bd69bf27-8c66-4e9a-a35b-93efcb37b6af","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:13:43+05:30"}
+{"ID":"4d1de139-41a0-400a-9dbf-3a35c7022df7","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:16:31+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:16:31+05:30"}
+{"ID":"4d1de139-41a0-400a-9dbf-3a35c7022df7","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:16:31+05:30"}
+{"ID":"b1f913d6-ec46-4fa3-bc81-4084d1940e0e","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:16:48+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:16:48+05:30"}
+{"ID":"b1f913d6-ec46-4fa3-bc81-4084d1940e0e","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:16:48+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:24:29+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:24:29+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:24:29+05:30"}
+{"ID":"e1bbc724-300f-4dc2-8e44-ebcd55db12c6","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:25:32+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:25:32+05:30"}
+{"ID":"e1bbc724-300f-4dc2-8e44-ebcd55db12c6","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:25:32+05:30"}
+{"ID":"d5ede284-d4d8-434d-9355-a51ed6f86d23","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:26:20+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:26:20+05:30"}
+{"ID":"d5ede284-d4d8-434d-9355-a51ed6f86d23","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:26:20+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:26:32+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:26:32+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:26:32+05:30"}
+{"ID":"0746d315-6d3d-429d-a139-e51f30f7fca1","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:26:35+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:26:35+05:30"}
+{"ID":"0746d315-6d3d-429d-a139-e51f30f7fca1","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:26:35+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:27:09+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:27:09+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:27:09+05:30"}
+{"ID":"c6151560-03c3-4cf5-82ad-21b107304027","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:27:14+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:27:14+05:30"}
+{"ID":"c6151560-03c3-4cf5-82ad-21b107304027","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:27:14+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:31:05+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:31:05+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:31:05+05:30"}
+{"ID":"d56951a9-c8a3-4eaf-b5b3-e603beb5777b","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:31:09+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:31:09+05:30"}
+{"ID":"d56951a9-c8a3-4eaf-b5b3-e603beb5777b","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:31:09+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:32:56+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:32:56+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:32:56+05:30"}
+{"ID":"1a507fc4-bb7d-477c-a433-dd072dea65f2","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:33:00+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:33:00+05:30"}
+{"ID":"1a507fc4-bb7d-477c-a433-dd072dea65f2","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:33:00+05:30"}
+{"ID":"c2dbce5c-0908-42c1-9bcf-2ebff0d090bd","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:33:33+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:33:33+05:30"}
+{"ID":"c2dbce5c-0908-42c1-9bcf-2ebff0d090bd","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:33:33+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:34:16+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:34:16+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:34:16+05:30"}
+{"ID":"16d057bf-3380-4611-ba04-1166cda39447","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:34:20+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:34:20+05:30"}
+{"ID":"16d057bf-3380-4611-ba04-1166cda39447","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:34:20+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:35:42+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:35:42+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:35:42+05:30"}
+{"ID":"6e27ed5f-691e-4e21-bc58-2030b6d62881","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:35:48+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:35:48+05:30"}
+{"ID":"6e27ed5f-691e-4e21-bc58-2030b6d62881","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:35:48+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:37:40+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:37:40+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:37:40+05:30"}
+{"ID":"a5f60c0a-c66f-4b44-81be-6641f2b718d0","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:37:48+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:37:48+05:30"}
+{"ID":"a5f60c0a-c66f-4b44-81be-6641f2b718d0","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:37:48+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:38:28+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:38:28+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:38:28+05:30"}
+{"ID":"7a9839f0-5d77-4fec-b42a-161e2c42cbc3","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:38:31+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:38:31+05:30"}
+{"ID":"7a9839f0-5d77-4fec-b42a-161e2c42cbc3","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:38:31+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:47:21+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:47:21+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:47:21+05:30"}
+{"ID":"eb3a48c5-6de1-47f4-b5da-30bd6ab50d3b","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:47:33+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:47:33+05:30"}
+{"ID":"eb3a48c5-6de1-47f4-b5da-30bd6ab50d3b","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:47:33+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:51:51+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:51:51+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:51:51+05:30"}
+{"ID":"8c0ce733-4709-4008-8855-e994ff37f7cd","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:51:56+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:51:56+05:30"}
+{"ID":"8c0ce733-4709-4008-8855-e994ff37f7cd","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:51:56+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:57:12+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:57:12+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:57:12+05:30"}
+{"ID":"a6e5a3a2-2b84-4c62-912d-3dc9f1001353","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:57:16+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:57:16+05:30"}
+{"ID":"a6e5a3a2-2b84-4c62-912d-3dc9f1001353","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:57:16+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:58:34+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:58:34+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:58:34+05:30"}
+{"ID":"9e03643a-b310-4674-873b-0037b617b488","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:58:42+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : http://localhost:6379/","time":"2023-12-12T14:58:42+05:30"}
+{"ID":"9e03643a-b310-4674-873b-0037b617b488","level":"error","msg":"dial tcp: address http://localhost:6379/: too many colons in address","time":"2023-12-12T14:58:42+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T14:59:45+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T14:59:45+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T14:59:45+05:30"}
+{"ID":"63a6e78e-5970-4db3-99b6-5bba25384a9a","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T14:59:47+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T14:59:47+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T15:00:56+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T15:00:56+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:00:56+05:30"}
+{"ID":"c6279d27-f08b-4963-a375-0ba2828e89d7","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T15:00:59+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:00:59+05:30"}
+{"ID":"c6279d27-f08b-4963-a375-0ba2828e89d7","level":"info","msg":"Driver Location succesfilly.","time":"2023-12-12T15:00:59+05:30"}

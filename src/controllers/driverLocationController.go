@@ -8,7 +8,6 @@ import (
 	"corporateTest/src/helpers"
 	"corporateTest/src/models"
 	"encoding/json"
-	"time"
 
 	"github.com/gin-gonic/gin"
 	"github.com/go-redis/redis/v8"
@@ -27,9 +26,9 @@ func CreateDriverLocation(c *gin.Context) {
 	json.NewDecoder(c.Request.Body).Decode(&driverLocation)
 
 	// Create a Background Context with Timeout Value configured as Environment Variable.
-	ctx, _ := context.WithTimeout(context.Background(), time.Duration(API_CONFIG_REQUEST_TIMEOUT)*time.Second)
+	// ctx, _ := context.WithTimeout(context.Background(), time.Duration(API_CONFIG_REQUEST_TIMEOUT)*time.Second)
 
-	redisError := rediss.RedisInstance().GeoAdd(ctx, driverLocation.PoolName,
+	redisError := rediss.RedisInstance().GeoAdd(context.Background(), driverLocation.PoolName,
 		&redis.GeoLocation{Longitude: driverLocation.Longitude,
 			Latitude: driverLocation.Latitude, Name: driverLocation.DriverID}).Err()
 
@@ -37,7 +36,6 @@ func CreateDriverLocation(c *gin.Context) {
 	if redisError != nil {
 		log.WithFields(logrus.Fields{"ID": c.MustGet("LogID")}).Error(redisError.Error())
 		return
-
 	}
 
 	// Send created reponse with Status 201.

@@ -276,3 +276,32 @@
 {"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T15:18:14+05:30"}
 {"level":"info","msg":"Connected to Database!","time":"2023-12-12T15:18:14+05:30"}
 {"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:18:14+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:19:28+05:30"}
+{"level":"info","msg":"Connecting to Database via URL : mongodb://localhost:27017","time":"2023-12-12T15:21:54+05:30"}
+{"level":"info","msg":"Connected to Database!","time":"2023-12-12T15:21:54+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:21:54+05:30"}
+{"ID":"62639f97-be8a-427c-b9c7-2d7bd1413b8f","level":"info","msg":"User Corporate User Get All Function Called.","time":"2023-12-12T15:22:04+05:30"}
+{"ID":"62639f97-be8a-427c-b9c7-2d7bd1413b8f","level":"error","msg":"server selection error: context deadline exceeded, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","time":"2023-12-12T15:22:14+05:30"}
+{"ID":"4826a77c-6678-42c6-bdf7-0b44278bf5a6","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T15:22:17+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:22:17+05:30"}
+{"ID":"4826a77c-6678-42c6-bdf7-0b44278bf5a6","level":"info","msg":"Driver Location succesfilly.","time":"2023-12-12T15:22:17+05:30"}
+{"ID":"40528183-e2b8-4197-bf61-3c359ee71809","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T15:22:58+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:22:58+05:30"}
+{"ID":"40528183-e2b8-4197-bf61-3c359ee71809","level":"info","msg":"Driver Location succesfilly.","time":"2023-12-12T15:22:58+05:30"}
+{"ID":"bf2782b7-531d-4170-8e1f-3bae217f40c0","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T15:23:23+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:23:23+05:30"}
+{"ID":"bf2782b7-531d-4170-8e1f-3bae217f40c0","level":"info","msg":"Driver Location succesfilly.","time":"2023-12-12T15:23:23+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:23:58+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:24:06+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:24:29+05:30"}
+{"ID":"01c0f624-e4c4-4061-8569-9a0075664619","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T15:25:42+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:25:42+05:30"}
+{"ID":"01c0f624-e4c4-4061-8569-9a0075664619","level":"info","msg":"Driver Location succesfilly.","time":"2023-12-12T15:25:42+05:30"}
+{"ID":"1d256985-7677-491a-9d86-3e35416bb536","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T15:25:54+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:25:54+05:30"}
+{"ID":"1d256985-7677-491a-9d86-3e35416bb536","level":"info","msg":"Driver Location succesfilly.","time":"2023-12-12T15:25:54+05:30"}
+{"ID":"fe405eed-8687-47b1-ab32-5b3e12e6269a","level":"info","msg":"User Create Driver Location Called.","time":"2023-12-12T15:26:08+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:26:08+05:30"}
+{"ID":"fe405eed-8687-47b1-ab32-5b3e12e6269a","level":"info","msg":"Driver Location succesfilly.","time":"2023-12-12T15:26:08+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:26:20+05:30"}
+{"level":"info","msg":"Connecting to Redis Instance : localhost:6379","time":"2023-12-12T15:27:06+05:30"}

@@ -20,7 +20,7 @@ func CreateDriverLocation(c *gin.Context) {
 	log := helpers.GetLogger()
 
 	c.Set("LogID", uuid.New().String())
-	log.WithFields(logrus.Fields{"ID": c.MustGet("LogID")}).Info("User Create Corporate User Function Called.")
+	log.WithFields(logrus.Fields{"ID": c.MustGet("LogID")}).Info("User Create Driver Location Called.")
 
 	// Decode JSON Request Body.
 	var driverLocation models.DriverLocationUpdateModel

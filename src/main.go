@@ -29,6 +29,7 @@ func main() {
 		log.Error("API_CONFIG_PORT not found in environment variables")
 		os.Exit(1)
 	}
+
 	if port != "8080" {
 		port = "8090"
 	}
@@ -43,6 +44,7 @@ func main() {
 
 	err = router.Run(":" + port)
 	if err != nil {
+		log.Error("API running on port : " + port)
 		return
 	} else {
 		log.Info("API running on port : " + port)
